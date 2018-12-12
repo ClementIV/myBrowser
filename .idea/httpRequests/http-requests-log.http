@@ -1,0 +1,30 @@
+GET http://httpbin.org/status/301
+
+<> 2018-12-12T022702.200.json
+
+###
+
+# @no-redirect
+GET http://httpbin.org/status/301
+
+###
+
+# @no-redirect
+GET http://httpbin.org/status/301
+
+###
+
+GET https://httpbin.org/get?show_env=1
+Accept: application/json
+
+<> 2018-12-11T083623.200.json
+
+###
+
+GET https://httpbin.org/ip
+Accept: application/json
+
+<> 2018-12-11T083553.200.json
+
+###
+

@@ -1,0 +1,11 @@
+{
+  "args": {},
+  "headers": {
+    "Accept-Encoding": "gzip,deflate",
+    "Connection": "close",
+    "Host": "httpbin.org",
+    "User-Agent": "Apache-HttpClient/4.5.6 (Java/1.8.0_152-release)"
+  },
+  "origin": "60.29.19.195",
+  "url": "http://httpbin.org/get"
+}
